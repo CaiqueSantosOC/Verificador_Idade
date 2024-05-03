@@ -20,7 +20,7 @@ section {
     max-width: 500px;
     min-width: 300px;
     max-height: 420px;
-    min-height: 400px;
+    min-height: 420px;
 
     margin: auto;
 }
@@ -42,7 +42,5 @@ div#res {
 #foto {
     width: 50%;
     height: 30%;
-    padding: 10px;
-    
-    
+    padding: 10px;   
 }
