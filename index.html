@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Idade</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>VERIFICADOR DE IDADE:</h1>
+    </header>
+    <section>
+        <div>
+            <p>Ano de Nascimento:
+                <input type="number" name="txtano" id="txtano" min="0">
+            </p>    
+            <p>Sexo: 
+                <input type="radio" name="radsex" id="mas" checked>
+                <label for="mas">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminino</label>
+            </p>
+            <p>
+                <input type="button" value="Verificar" onclick="verificar()">
+            </p>       
+        <div id="res">Preencha para verificar o resultado...</div>
+    </section>
+    <footer>
+        <p>© CaiqueSantos 2024</p>
+        <a href="https://github.com/CaiqueSantosOC" target="_blank"><img src="github-branco.png" alt="githubemoji"></a>
+        <a href="https://www.linkedin.com/in/caique-santos-lima-852b45138/" target="_blank"><img src="linkedin-preto.png" alt="linkedinemoji"></a>
+        
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

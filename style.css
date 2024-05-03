@@ -1,0 +1,48 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    text-shadow: 01px 01px 05px rgb(255, 255, 255);
+    font-weight: bold;
+
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: rgba(29, 133, 133, 0.575);
+}
+section {
+    background-color: rgba(255, 255, 255, 0.967);
+    padding: 20px;
+    border-radius: 10px;
+    border: 01px solid #0000008f;
+    box-shadow: 5px 8px 8px #0000008f;
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 420px;
+    min-height: 400px;
+
+    margin: auto;
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-weight: bolder;
+}
+   
+footer img {
+    width: 30px;
+    height: 30px;
+    padding: 05px;
+}
+div#res {
+    text-align: center;    
+}
+#foto {
+    width: 50%;
+    height: 30%;
+    padding: 10px;
+    
+    
+}
