@@ -1,2 +1,2 @@
 # Verificador_Idade
- Projeto relizado junto ao curso em video, verificador de idade.
+Bem-vindo ao meu repositório! Este projeto foi realizado como parte do curso do canal "Curso em Vídeo". Trata-se de um verificador de idade desenvolvido em JavaScript. Explore este projeto e muitos outros que refletem minha jornada de aprendizado e paixão pelo desenvolvimento web. Fique à vontade para experimentar o código e contribuir com sugestões ou melhorias. Espero que este projeto seja útil e inspirador para você, assim como foi para mim durante o curso.
